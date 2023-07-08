@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ou/5pI9c6RzTKNlsVsg0gMXfmI9yjcoFhZ/1vJG+gfsmUoZsFpJw+4lGDmIOf2d7Ejsx9O/K7rWueQxvlI/wqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andrei-solero\\Desktop\\C# App\\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\\DataAccessLibrary\\DataAccessLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andrei-solero\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\andrei-solero\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\andrei-solero\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\andrei-solero\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\andrei-solero\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\andrei-solero\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\andrei-solero\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\andrei-solero\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

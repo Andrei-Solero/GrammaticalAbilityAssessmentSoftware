@@ -1,0 +1,8 @@
+INSTALLATION:
+	_windowsdesktop-runtime-6.0.16-win-x64 - 	To run the application without installing any other .net apps
+	_dbengine_MS2013+ - 				if you have ms office version 2013 and above
+	_dbengine_MS2010 -				if you have ms office version 2010
+
+Run Application:
+	Open `GrammaticalAbilityAssessmentSoftware` --> bin --> Debug --> net6.0-windows --> Run 'GrammaticalAbilityAssessmentSoftware.exe' 
+	enter 'ericpaulin' as administrator pin

@@ -1,0 +1,45 @@
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\bin\Debug\net6.0-windows\GAASBusinessLogicLibrary.deps.json
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\bin\Debug\net6.0-windows\GAASBusinessLogicLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\bin\Debug\net6.0-windows\GAASBusinessLogicLibrary.pdb
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\bin\Debug\net6.0-windows\DataAccessLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\bin\Debug\net6.0-windows\DataAccessLibrary.pdb
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.csproj.AssemblyReference.cache
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.AssemblyInfoInputs.cache
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.AssemblyInfo.cs
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.csproj.CopyComplete
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\obj\Debug\net6.0-windows\refint\GAASBusinessLogicLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.pdb
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\BusinessLogicLibrary\obj\Debug\net6.0-windows\ref\GAASBusinessLogicLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\bin\Debug\net6.0-windows\GAASBusinessLogicLibrary.deps.json
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\bin\Debug\net6.0-windows\GAASBusinessLogicLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\bin\Debug\net6.0-windows\GAASBusinessLogicLibrary.pdb
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\bin\Debug\net6.0-windows\DataAccessLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\bin\Debug\net6.0-windows\DataAccessLibrary.pdb
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.csproj.AssemblyReference.cache
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.AssemblyInfoInputs.cache
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.AssemblyInfo.cs
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.csproj.CopyComplete
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\obj\Debug\net6.0-windows\refint\GAASBusinessLogicLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.pdb
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - Backup\BusinessLogicLibrary\obj\Debug\net6.0-windows\ref\GAASBusinessLogicLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\bin\Debug\net6.0-windows\GAASBusinessLogicLibrary.deps.json
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\bin\Debug\net6.0-windows\GAASBusinessLogicLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\bin\Debug\net6.0-windows\GAASBusinessLogicLibrary.pdb
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\bin\Debug\net6.0-windows\DataAccessLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\bin\Debug\net6.0-windows\DataAccessLibrary.pdb
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.csproj.AssemblyReference.cache
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.AssemblyInfoInputs.cache
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.AssemblyInfo.cs
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.csproj.CopyComplete
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\obj\Debug\net6.0-windows\refint\GAASBusinessLogicLibrary.dll
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\obj\Debug\net6.0-windows\GAASBusinessLogicLibrary.pdb
+C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication - 32Bit\BusinessLogicLibrary\obj\Debug\net6.0-windows\ref\GAASBusinessLogicLibrary.dll

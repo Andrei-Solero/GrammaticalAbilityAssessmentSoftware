@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\andrei-solero\Desktop\C# App\GrammaticalAbilityAssessmentSoftwareApplication\GrammaticalAbilityAssessmentSoftware\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AdminAccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateRespondents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PartsCreation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuestionAnswerCreation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuizForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Respondents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RespondentsResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SelectRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="_UserControl\CurrentSubjectTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="_UserControl\Main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="_UserControl\QuestionAnswer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="_UserControl\QuestionAnswerForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="_UserControl\Quiz.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="_UserControl\QuizAnswerFormWithResult.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="_UserControl\QuizResult.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="_UserControl\SubjectLevelTemplate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

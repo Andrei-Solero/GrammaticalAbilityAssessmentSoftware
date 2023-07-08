@@ -1,0 +1,12 @@
+C:\Users\andrei-solero\Desktop\GASS_INSTALLER\GrammaticalAbilityAssessmentSoftware.exe
+C:\Users\andrei-solero\Desktop\GASS_INSTALLER\GrammaticalAbilityAssessmentSoftware.dll
+C:\Users\andrei-solero\Desktop\GASS_INSTALLER\GrammaticalAbilityAssessmentSoftware.deps.json
+C:\Users\andrei-solero\Desktop\GASS_INSTALLER\GrammaticalAbilityAssessmentSoftware.runtimeconfig.json
+C:\Users\andrei-solero\Desktop\GASS_INSTALLER\GrammaticalAbilityAssessmentSoftware.dll.config
+C:\Users\andrei-solero\Desktop\GASS_INSTALLER\GrammaticalAbilityAssessmentSoftware.pdb
+C:\Users\andrei-solero\Desktop\GASS_INSTALLER\System.Data.OleDb.dll
+C:\Users\andrei-solero\Desktop\GASS_INSTALLER\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\andrei-solero\Desktop\GASS_INSTALLER\DataAccessLibrary.dll
+C:\Users\andrei-solero\Desktop\GASS_INSTALLER\GAASBusinessLogicLibrary.dll
+C:\Users\andrei-solero\Desktop\GASS_INSTALLER\DataAccessLibrary.pdb
+C:\Users\andrei-solero\Desktop\GASS_INSTALLER\GAASBusinessLogicLibrary.pdb
